@@ -7,7 +7,7 @@
 * Utilizar python 3.10 *
 --------------------------
 Mapeamento dos dedos:
-*Dedo = Nota tocada 
+- Dedo = Nota tocada 
 
 Polegar	C (262 Hz)
 
